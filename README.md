@@ -51,7 +51,7 @@ I think it's important that the blockchain technology should be accessible. That
 
   
 
-I started this document to keep track of the ressources that I use to teach myself what the blockchain is and how I can learn new skills about the blockchain development. If you find some parts or this document irrelevant, incomplete or depreciated, please feel free to comment and participate. You can contact me on my [Twitter](https://twitter.com/AlexLab71).
+I started this document to keep track of the ressources that I use to teach myself what the blockchain is and how I can learn new skills about the blockchain development. If you find some parts or this document irrelevant, incomplete or depreciated, please feel free to comment and participate. You can contact me on my [Twitter](https://twitter.com/alexlabdev).
 
   
 
